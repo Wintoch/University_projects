@@ -15,8 +15,8 @@ The projects are organized by semester to reflect the chronological progress of 
 
 ## Technologies
 Across these projects, I have worked with various technologies, including but not limited to:
-* **Languages:** [e.g., Python, C++, Java, JavaScript]
-* **Tools:** [e.g., Git, Docker, SQL, VS Code]
+* **Languages:** [e.g., C, C++, Java, php]
+* **Tools:** [e.g., Git, SQL, VS Code]
 
 ---
 *Created for personal academic archival purposes.*
