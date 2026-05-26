@@ -5,9 +5,9 @@ Welcome to my repository containing projects and assignments completed during my
 ## Structure
 The projects are organized by semester to reflect the chronological progress of my academic journey:
 
-- `sem-01/` - [Brief description, e.g., Introduction to Programming, Math foundations]
-- `sem-02/` - [Brief description]
-- `sem-03/` - [Brief description]
+- `sem-01/` - [TODO]
+- `sem-02/` - [OOP projects, Algorithm and Data Structures project]
+- `sem-03/` - []
 ... and so on.
 
 ## Goals
