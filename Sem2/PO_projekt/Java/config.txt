@@ -1,0 +1,16 @@
+HEX 10 10
+Wolf 0 1 9 7 0 0 0
+NightShade 0 5 99 14 0 0 0
+Antelope 1 5 4 7 0 0 0
+Wolf 2 6 9 7 0 0 0
+Milkweed 2 7 0 20 0 0 0
+Milkweed 3 6 0 28 0 0 0
+Sheep 5 8 4 7 0 0 0
+Fox 6 4 3 7 0 0 0
+Milkweed 7 3 0 24 0 0 0
+Human 7 5 5 7 0 0 -1
+Grass 7 8 0 4 0 0 0
+Fox 8 9 3 7 0 0 0
+Antelope 9 2 4 7 0 0 0
+Turtle 9 6 2 7 0 0 0
+Grass 9 9 0 12 0 0 0
