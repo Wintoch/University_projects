@@ -5,10 +5,8 @@ Welcome to my repository containing projects and assignments completed during my
 ## Structure
 The projects are organized by semester to reflect the chronological progress of my academic journey:
 
-- `sem-01/` - [TODO]
-- `sem-02/` - [OOP projects, Algorithm and Data Structures project]
-- `sem-03/` - []
-... and so on.
+- `sem-01/` - [Basic of Programming - 2projects, Websites and Web applications - waiting to be added]
+- `sem-02/` - [OOP 1 - project commited in 3 programming languages, Algorithm and Data Structures - 3 projects, not fully added yet]
 
 ## Goals
 * **Documentation:** Keeping track of my academic assignments and experiments.
@@ -17,8 +15,8 @@ The projects are organized by semester to reflect the chronological progress of 
 
 ## Technologies
 Across these projects, I have worked with various technologies, including but not limited to:
-* **Languages:** [e.g., Python, C++, Java, JavaScript]
-* **Tools:** [e.g., Git, Docker, SQL, VS Code]
+* **Languages:** [e.g., C, C++, Java, php]
+* **Tools:** [e.g., Git, SQL, VS Code]
 
 ---
 *Created for personal academic archival purposes.*
