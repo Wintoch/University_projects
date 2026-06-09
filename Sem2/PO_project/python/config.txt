@@ -1,0 +1,17 @@
+HEX 10 10
+Turtle 1 8 2 17 0 0 0
+Guarana 2 9 0 34 0 0 0
+Milkweed 3 7 0 16 0 0 0
+Milkweed 4 8 0 20 0 0 0
+Turtle 5 2 2 17 0 0 0
+Milkweed 5 8 0 24 0 0 0
+Milkweed 5 9 0 16 0 0 0
+Grass 6 7 0 34 0 0 0
+Milkweed 6 8 0 8 0 0 0
+Milkweed 6 9 0 60 0 0 0
+Wolf 8 1 9 17 0 0 0
+Human 8 2 5 17 0 0 -1
+NightShade 8 9 99 18 0 0 0
+Wolf 9 4 9 17 0 0 0
+NightShade 9 8 99 12 0 0 0
+NightShade 9 9 99 34 0 0 0
